@@ -15,7 +15,7 @@ However, HWIOAuthBundle didn't have a support for Apple Sign In, so I needed to 
 Since the new OAuth was fully working I needed to remove unused stuff left from the old OAuth provider.
 
 #### List of Pull Requests
- Here is th list of pull requests where the implementation of the steps described above can be found:
+ Here is the list of pull requests where the implementation of the steps described above can be found:
 - [Implement New OAuth Provider](https://github.com/Catrobat/Catroweb/pull/573)
 - [Remove Unused OAuth stuff](https://github.com/Catrobat/Catroweb/pull/782)
 

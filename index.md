@@ -39,3 +39,5 @@ It was such a great experience to be a participant of the Google Summer of Code.
 - How OAuth really works under the hood
 - How API works and how to implement API calls
 
+And finally I would like to say thanks to the whole Catrobat Team. It was a pleasure and fun to work with you guys.
+

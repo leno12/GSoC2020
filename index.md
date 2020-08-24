@@ -29,6 +29,7 @@ Here is the list of other pull requests which I did and that were not the part o
 - Refactored Click Statistics Page in the admin area [Admin click statistics](https://github.com/Catrobat/Catroweb/pull/837)
 - Fixed Links at the bottom of the page [Bottom page links](https://github.com/Catrobat/Catroweb/pull/838)
 - Added and implemented API call for the Recommended Projects on the homepage: [Recommended homepage projects](https://github.com/Catrobat/Catroweb/pull/857)
+- Fixed Phpunit deprecations: [PHPUnit Deprecation](https://github.com/Catrobat/Catroweb/pull/853)
 
 Besides all pull requests stated above I also did a few code reviews.
 

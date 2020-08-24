@@ -7,7 +7,7 @@ I did the implementation of my project in the following 4 steps
 First of all I needed to decide which OAuth provider we should implement. After some research I decided that I will implement the HWIOAuthBundle since this bundle is widely used, popular and has a great documentation.
 ### Step 2 - Install and Configure HWIOAuthBundle
 I installed HWIOAuthBundle and configured all files in order to get it fully working.
-### Step 3 - Add support for Facebook and Apple Login
+### Step 3 - Add support for Facebook and Apple Sign In
 Besides refactoring and replacing the existing Google Sign In I also added support for the Facebook and Apple Sign In.
 Pocketcode Application is also available and popular on IOS platform because of that we also needed to add the Apple Sign in support.
 However, HWIOAuthBundle didn't have a support for Apple Sign In, so I needed to extend the HWIOAuthBundle and create PR on their repository to make this possible. Here is the link to that PR: [Apple Sign In support](https://github.com/hwi/HWIOAuthBundle/pull/1639)

@@ -18,7 +18,8 @@ Since the new OAuth was fully working I needed to remove unused stuff left from 
  Here is the list of pull requests where the implementation of the steps described above can be found:
 - [Implement New OAuth Provider](https://github.com/Catrobat/Catroweb/pull/573)
 - [Remove Unused OAuth stuff](https://github.com/Catrobat/Catroweb/pull/782)
-
+ I also wrote the documentation about OAuth for the Catrobat where I described how to add support for more platforms.
+ Here is the link to that documentation: [OAuth Documentation](https://github.com/Catrobat/Catroweb/wiki/OAuth)
 ## Other Contributions to the project
 Besides working on my GSoC project I also did a few other pull requests.
 Here is the list of other pull requests which I did and that were not the part of my Google Summer of Code project:

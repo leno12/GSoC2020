@@ -32,7 +32,7 @@ Here is the list of other pull requests which I did and that were not the part o
 
 Besides all pull requests stated above I also did a few code reviews.
 
-##Summary
+## Summary
 It was such a great experience to be a participant of the Google Summer of Code. I learned a lot of new things here are some of the most interesting for me:
 - What is JWT token
 - How to genarate, sign, validate JWT tokens

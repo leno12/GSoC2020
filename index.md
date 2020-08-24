@@ -12,9 +12,10 @@ Pocketcode Application is also available and popular on IOS platform because of 
 However HWIOAuth Bundle didnt have a support for Apple SIgn In so I needed to also extend the HWIOAuthBundle and create PR on their repository to make this possible.  Here is the link to that PR: [Apple Sign In support](https://github.com/hwi/HWIOAuthBundle/pull/1639) 
 ### Step 4 - Remove unused OAuth stuff
 Since the new OAuth was fully working I needed to remove unused stuff left from the old OAuth provider.
-And here are pull requests where I implemented all stuff described in the previous steps:
-[Implement New OAuth Provider](https://github.com/Catrobat/Catroweb/pull/573)
-[Remove Unused OAuth stuff](https://github.com/Catrobat/Catroweb/pull/782)
+
+And here are the pull requests where I implemented all stuff described in the previous steps:
+- [Implement New OAuth Provider](https://github.com/Catrobat/Catroweb/pull/573)
+- [Remove Unused OAuth stuff](https://github.com/Catrobat/Catroweb/pull/782)
 
 ## Other Contributions to the projects
 Here is the list of other pull requests which I did and that were not the part of my Google Summer of Code project:
@@ -26,33 +27,3 @@ Here is the list of other pull requests which I did and that were not the part o
 - Refactored Click Statistics Page in the admin area [Admin Click Statistics](https://github.com/Catrobat/Catroweb/pull/837)
 - Fixed Links at the bottom of the page [Bottom Page Links](https://github.com/Catrobat/Catroweb/pull/838)
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leno12/GSoC2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

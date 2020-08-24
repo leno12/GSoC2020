@@ -3,11 +3,11 @@ As a participant of the Google Summer of Code 2020 I helped Catrobat to implemen
 I also added a support for Facebook and Apple Log in. Now the users can easier login if they have already existing account on the other platforms like Google, Facebook and Apple.
 ## Contribution
 Here is the description of the contribution of my workflow 
-###Step 1 - Choose OAuth Provider
+### Step 1 - Choose OAuth Provider
 First of all I needed to decide which OAuth provider we should implement. After some research I decided for the HWIOAuthBundle since this bundle is widely used, popular and has a great documentation.
-###Step 2 - Install and Configure HWIOAuthBundle
+### Step 2 - Install and Configure HWIOAuthBundle
 I installed and configured all files in order to get HWIOAuthWorking
-###Step 3 - Add Apple Sign in Support
+### Step 3 - Add Apple Sign in Support
 
 
 

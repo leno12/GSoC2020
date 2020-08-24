@@ -23,7 +23,7 @@ Since the new OAuth was fully working I needed to remove unused stuff left from 
 Besides working on my GSoC project I also did a few other pull requests.
 Here is the list of other pull requests which I did and that were not the part of my Google Summer of Code project:
 - Redesign of the Project Page: [Project view update](https://github.com/Catrobat/Catroweb/pull/685)
-- New API for the OAUth: [OAuth API](https://github.com/Catrobat/Catroweb/pull/685)
+- New API for the OAUth: [OAuth API](https://github.com/Catrobat/Catroweb/pull/855)
 - Handling of the errors which occurre during downloading: [File Download Error Handling](https://github.com/Catrobat/Catroweb/pull/787)
 - Deduplication of the project files: [Project files deduplication](https://github.com/Catrobat/Catroweb/pull/794)
 - Fixed homepage click statistics since they were not working because of the new project list design: [homepage click statistics](https://github.com/Catrobat/Catroweb/pull/830)

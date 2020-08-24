@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages
+# Implement new OAuth Provider and refactor Google Sign-In
+As a participant of the Google Summer of Code 2020 I helped Catrobat to implement new OAuth Provider (HWIIOAuthBundle) and refactor Google Sign-In. 
+I also added a support for Facebook and Apple Log in. Now the users can easier login if they have already existing account on the other platforms like Google, Facebook and Apple.
+## Contribution
+Here is the description of the contribution of my workflow 
+###Step 1 - Choose OAuth Provider
+First of all I needed to decide which OAuth provider we should implement. After some research I decided for the HWIOAuthBundle since this bundle is widely used, popular and has a great documentation.
+###Step 2 - Install and Configure HWIOAuthBundle
+I installed and configured all files in order to get HWIOAuthWorking
+###Step 3 - Add Apple Sign in Support
 
-You can use the [editor on GitHub](https://github.com/leno12/GSoC2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

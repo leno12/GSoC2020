@@ -1,10 +1,10 @@
 # Implement new OAuth Provider and refactor Google Sign-In
 As a participant of the Google Summer of Code 2020 I helped Catrobat to implement new OAuth Provider (HWIOAuthBundle) and refactor Google Sign-In. 
-I also added a support for Facebook and Apple Sign in. The process of logging in should be much easier for the users if they have already existing accout on some other platform like Google, Facebook, Apple. We also have less code now and it is much cleaner then before.
+I also added a support for Facebook and Apple Sign in. The process of logging in should be much easier for the users if they have already existing account on some other platform like Google, Facebook, Apple. We also have less code now and the code looks much cleaner then before.
 ## Contribution
 I did the implementation of my project in the following 4 steps
 ### Step 1 - Choose OAuth Provider
-First of all I needed to decide which OAuth provider we should implement. After some research I decided that I will implement the HWIOAuthBundle since this bundle is widely used, popular and has a great documentation.
+First I needed to decide which OAuth provider we should implement. After some research I decided that I will implement the HWIOAuthBundle since this bundle is widely used, popular and has a great documentation.
 ### Step 2 - Install and Configure HWIOAuthBundle
 I installed HWIOAuthBundle and configured all files in order to get it fully working.
 ### Step 3 - Add support for Facebook and Apple Sign In

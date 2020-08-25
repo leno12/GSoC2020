@@ -40,7 +40,7 @@ Besides all pull requests stated above I also did a few code reviews.
 ## Summary
 It was such a great experience to be a participant of the Google Summer of Code. I learned a lot of new things and here are some of the most interesting for me:
 - What is JWT token
-- How to generate, sign, validate JWT tokens
+- How to generate, sign and validate JWT tokens
 - How OAuth really works under the hood
 - How API works and how to implement API calls
 
